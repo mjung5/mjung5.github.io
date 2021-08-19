@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Statistician to Data Scientist
+title: From Statistician To Data Scientist
 ---
 
 What do you think being a data scientist is about? 
