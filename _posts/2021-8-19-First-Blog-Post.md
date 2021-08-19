@@ -13,7 +13,7 @@ Not only should I be able to develop statistical models for analysis, but also b
 
 What differences/similarities do you see between data scientists and statisticians? 
 
-Both statisticians and data scientists both investigate problems and analyze collected data to create forecasts. However, statisticians are more involved in smaller scale/manual data collection, hypothesis testing, and starting with relatively simple model (i.e. survey), like linear regression. On the other hand, data scientists deal with big data focusing on data ingestion and data cleaning and transformation, and use of SQL for data collection. Also, data scientists focus on software engineering practices like coding and machine leaning models.  
+Both statisticians and data scientists investigate problems and analyze collected data to create forecasts. However, statisticians are more involved in smaller scale/manual data collection, hypothesis testing, and starting with relatively simple model (i.e. survey), like linear regression. On the other hand, data scientists deal with big data focusing on data ingestion and data cleaning and transformation, and use of SQL for data collection. Also, data scientists focus on software engineering practices like coding and machine leaning models.  
 
 How do you view yourself in relation to these two areas?
 
