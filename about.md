@@ -20,6 +20,7 @@ Therefore, I decided to get more statistic/data science training and go beyond t
 ### More Information
 
 I am orginally from Seoul in South Korea. I came to the U.S. for my undergraude and I have lived in here ever since 2002. 
+
 My family is still in Korea and I visit them every year with my kids as a vacation.
 
 
