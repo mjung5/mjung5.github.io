@@ -16,6 +16,8 @@ Therefore, I decided to get more statistic/data science training and go beyond t
 knitr::include_graphics("Minjung.jpg")
 ```
 
+https://raw.githubusercontent.com/mjung5/mjung5.github.io/master/images/Minjung.jpg
+
 ### More Information
 
 I am orginally from Seoul in South Korea. I came to the U.S. for my undergraude and I have lived in here ever since 2002. 
