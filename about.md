@@ -15,8 +15,8 @@ Therefore, I decided to get more statistic/data science training and go beyond t
 ```{r out.width = "150px", echo = FALSE, fig.align='center'}
 knitr::include_graphics("Minjung.jpg")
 ```
+https://github.com/mjung5/mjung5.github.io/blob/master/images/Minjung.JPG
 
-https://raw.githubusercontent.com/mjung5/mjung5.github.io/master/images/Minjung.jpg
 
 ### More Information
 
