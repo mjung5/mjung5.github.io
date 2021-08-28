@@ -13,7 +13,9 @@ knitr::include_graphics("mjung.jpg")
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am orginally from Seoul in South Korea. I came to the U.S. for my undergraude and I have lived in here ever since 2002. 
+My family is still in Korea and I visit them every year with my kids as a vacation.
+
 
 ### Contact me
 
