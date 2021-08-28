@@ -12,9 +12,6 @@ I studied children and family's daily and overall experiences in culrurally and 
 
 ![Min](https://raw.githubusercontent.com/mjung5/mjung5.github.io/master/images/Minjung.JPG)
 
-![me][1]
-
-[1]: https://github.com/mjung5/mjung5.github.io/blob/master/images/Minjung.jpg
 
 ### More Information
 
