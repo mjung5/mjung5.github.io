@@ -10,7 +10,7 @@ In my previous graduate program, where I majored in Child and family studies, I 
 
 I studied children and family's daily and overall experiences in culrurally and gegraphiccaly diverse context. Moreover, I focused on how socio cultral interpersonal factos influence positive and negative outcomes of adolesence. In the meantime, I have been always fascinated by the role of statistics and analytic methods and how it expands research questions and enriches research outcomes. 
 
-![Min](https://github.com/mjung5/mjung5.github.io/blob/master/images/Minjung.JPG)
+![Min](https://raw.githubusercontent.com/mjung5/mjung5.github.io/master/images/Minjung.JPG)
 
 ![me][1]
 
