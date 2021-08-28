@@ -12,6 +12,7 @@ I studied children and family's daily and overall experiences in culrurally and 
 
 Therefore, I decided to get more statistic/data science training and go beyond the scope of my research goal but also be a more effective data scientist. 
 
+<img src="https://github.com/mjung5/mjung5.github.io/blob/master/images/Minjung.JPG" alt="MJ picture" style="height: 60px; width:60px;"/>
 
 ![me][1]
 
