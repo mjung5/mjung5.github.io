@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE, fig.path = "../images/")
 ```{r, echo = FALSE, eval = FALSE}
 rmarkdown:: render("2021-9-11-Second-Blog-Post.Rmd",
                    output_format = "github_document",
-                   output_dir = "../../repo/mjung5.github.io/_posts", 
+                   output_dir = "../../mjung5.github.io/_posts", 
                    output_options = list(html_preview = FALSE, keep_html = FALSE)
                    )
 
@@ -24,9 +24,6 @@ rmarkdown:: render("2021-9-11-Second-Blog-Post.Rmd",
 
 Before I took R class, I thought that R will be similar to SAS, using syntax and getting statistic outcome. 
 
-```{r cars}
-summary(cars)
-```
 
 ## Example R Markdown output
 
