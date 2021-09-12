@@ -1,7 +1,5 @@
 Programming Background
 ================
-Min-Jung Jung
-9/11/2021
 
 ## R and SAS
 

@@ -1,7 +1,6 @@
 ---
 title: "Programming Background"
-author: "Min-Jung Jung"
-date: "9/11/2021"
+
 
 ---
 
