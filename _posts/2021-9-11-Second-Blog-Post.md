@@ -3,13 +3,41 @@ Programming Background
 Min-Jung Jung
 9/11/2021
 
-## R or SAS? R and SAS
+## R and SAS
 
-Before I took R class, I thought that R will be similar to SAS, using
-syntax and getting statistic outcome.
+What are your thoughts on R vs whatever other software you’ve used? What
+functionality do you like about R?
+
+R is a very interesting programming language. I feel like it is a very
+interactive and flexible program in which there are many ways to get to
+my outcomes. Even though it has a higher learning curve and I had to
+learn from the basic skills, like downloading packages and finding paths
+to search the files I want to use, I was able to find great amount of
+resources from various community support groups in the public. SAS is
+also a user friendly statistical analytics program, but it is somewhat
+more rigid and quite syntax based. SAS reports are in graphs, tables,
+etc., but R reports are in more visual formats and can even include
+pictures. One interesting aspect about R is that R studio and github can
+communicate, so I can manage the blog through R markdown.
+
+What parts do you miss about your other language?
+
+SAS was very beneficial for handling large amounts of raw data and
+advanced and predictive analysis. Also, I did not have to deal with
+downloading new packages or updating existing packages.
+
+Do you consider R a difficult language to learn?
+
+To be honest, R is difficult to learn, and I am spending quite a large
+amount of time every week to understand the materials and to complete
+the homework. However, I am not sure if R is a difficult language to
+learn compared to other languages. I only learned SAS, and SAS was also
+difficult at the beginning but did get better once I became used to the
+language and program. One thing I can say is that I am glad I am taking
+an R class and that I am learning to be part of a data scientist group.
 
 ## Example R Markdown output
 
 You can also embed plots, for example:
 
-![](../images/iris-1.png)<!-- -->
+![](../images/longley-1.png)<!-- -->
