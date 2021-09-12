@@ -38,6 +38,8 @@ an R class and that I am learning to be part of a data scientist group.
 
 ## Example R Markdown output
 
-You can also embed plots, for example:
+``` r
+plot(longley)
+```
 
 ![](../images/longley-1.png)<!-- -->

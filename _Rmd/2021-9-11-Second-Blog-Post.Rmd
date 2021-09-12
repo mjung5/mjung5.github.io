@@ -37,9 +37,9 @@ To be honest, R is difficult to learn, and I am spending quite a large amount of
 
 ## Example R Markdown output
 
-You can also embed plots, for example:
 
-```{r longley, echo=FALSE}
+
+```{r longley}
 plot(longley)
 ```
 
