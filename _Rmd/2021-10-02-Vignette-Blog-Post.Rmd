@@ -1,0 +1,32 @@
+---
+title: "Covid19 API"
+author: "Min-Jung Jung"
+date: "10/2/2021"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo = FALSE, eval = FALSE}
+rmarkdown:: render("2021-10-02-Vignette-Blog-Post.Rmd",
+                   output_format = "github_document",
+                   output_dir = "../../mjung5.github.io/_posts", 
+                   output_options = list(html_preview = FALSE, keep_html = FALSE))
+```
+## COVID19 API
+
+I used COVID19 API to complete project 1 (github repo). 
+
+## Vignette project
+
+I created several functions to contact with Covid-19 API and generate data for the exploratory analysis. Even though I was able to choose many different countries to compare, I specifically chose US for this vignette and compared death cases vs confirmed cases in national level, state level, and county level. At first, the results came to me as a mere numbers and graphs, but as I dealt with the information more, I realized that this numbers mean a lot. Especially, when I looked at the wake county information, I felt so real that more than 120,000 people got covid positive and more of all more than 800 people around me died from the COVID. It is not easy to wear masks everywhere we go and keep distance from each other. However, with the high number of deaths cases, I realized that I have a responsibility to follow the guideline and should not think lightly what I need to do to prevent spreading COVID. 
+
+#### what was the most difficult part of the logic and programming? What I do differently in approaching a similar project in the future?
+
+In fact, I choose COVID-19 API because I was able to understand the data better than the other APIs, but the data from contacting COVID-19 API is mostly numerical. Therefore, I had to create categorical variables to complete exploratory data analysis. Creating categorical variables was surprisingly difficult for me because simple cutting the date and making it as a categorical variable didn't give me much information. I ended up creating risk status based on the confirmed cases and deaths rate risk status based on the death rates. 
+
+However, it is all subjective criteria that I came up with and I didn't put the population numbers in a consideration in creating the criteria. For example, California  and Texas has bigger population than NC. Therefore, confirmed cases considering the population may make those states not as bad in terms of risk status and I just cannot simply make the risk status by confirmed cases number only. For this project, I set on my logic on the creating categorical variables, but I would like to combine population data with COVID-19 API in the future and make more accurate results.
+
+I created many graphs and tables first before I understand what the results of the graphs and tables truly mean. At the end, I had to delete several tables and graphs that I spent a lot of time on them. In the future, I will write one or two tables first and then interpret the results and move on making next tables/graphs.
+
