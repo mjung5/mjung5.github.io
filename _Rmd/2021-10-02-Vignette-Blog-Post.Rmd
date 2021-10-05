@@ -1,5 +1,4 @@
 ---
-title: "Covid19 API"
 author: "Min-Jung Jung"
 date: "10/2/2021"
 ---
@@ -9,16 +8,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, echo = FALSE, eval = FALSE}
-rmarkdown:: render("2021-10-02-Vignette-Blog-Post.Rmd",
+rmarkdown:: render("_Rmd/2021-10-02-Vignette-Blog-Post.Rmd",
                    output_format = "github_document",
-                   output_dir = "../../mjung5.github.io/_posts", 
+                   output_dir = "../mjung5.github.io/_posts", 
                    output_options = list(html_preview = FALSE, keep_html = FALSE))
 ```
-## COVID19 API
+## COVID-19 API
 
-I used COVID19 API to complete project 1 (github repo). 
+I used COVID-19 API to complete project 1 (github repo). 
 
-## Vignette project
+### Vignette project
 
 I created several functions to contact with Covid-19 API and generate data for the exploratory analysis. Even though I was able to choose many different countries to compare, I specifically chose US for this vignette and compared death cases vs confirmed cases in national level, state level, and county level. At first, the results came to me as a mere numbers and graphs, but as I dealt with the information more, I realized that this numbers mean a lot. Especially, when I looked at the wake county information, I felt so real that more than 120,000 people got covid positive and more of all more than 800 people around me died from the COVID. It is not easy to wear masks everywhere we go and keep distance from each other. However, with the high number of deaths cases, I realized that I have a responsibility to follow the guideline and should not think lightly what I need to do to prevent spreading COVID. 
 

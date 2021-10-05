@@ -1,13 +1,11 @@
-Covid19 API
-================
 Min-Jung Jung
 10/2/2021
 
-## COVID19 API
+## COVID-19 API
 
-I used COVID19 API to complete project 1 (github repo).
+I used COVID-19 API to complete project 1 (github repo).
 
-## Vignette project
+### Vignette project
 
 I created several functions to contact with Covid-19 API and generate
 data for the exploratory analysis. Even though I was able to choose many
