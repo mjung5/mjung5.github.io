@@ -3,7 +3,9 @@ Min-Jung Jung
 
 ## COVID-19 API
 
-I used COVID-19 API to complete project 1 (github repo).
+I used COVID-19 API to complete [project
+1](https://mjung5.github.io/covid-vignette-api/) ([github
+repo](https://github.com/mjung5/covid-vignette-api)).
 
 ### Vignette project
 
