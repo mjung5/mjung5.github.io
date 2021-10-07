@@ -16,7 +16,7 @@ vignette and compared death cases to confirmed cases at the national
 level, state level, and county level. At first, the results came to me
 as mere numbers and graphs, but as I dealt with the information more, I
 realized that the numbers mean a lot. Especially, when I looked at the
-information on Wake County, It felt much more real to look at the data
+information on Wake County, it felt much more real to look at the data
 and see that more than 120,000 people were found to be COVID19 positive,
 and worst of all, over 800 people around me died from this disease. It
 is not easy to wear masks everywhere we go and keep more distance from
