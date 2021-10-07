@@ -28,13 +28,13 @@ of COVID.
 #### what was the most difficult part of the logic and programming? What I do differently in approaching a similar project in the future?
 
 In fact, I chose the COVID19 API because I was able to understand the
-data better than the other APIs, but the data from contacting the
-COVID19 API is mostly numerical. Therefore, I had to create categorical
-variables to complete the exploratory data analysis. Creating
-categorical variables was surprisingly difficult for me because simply
-cutting the data and making it as categorical variables didn’t give me
-much information. I ended up creating risk categories based on the
-confirmed cases and death rates.
+data better than the other APIs, but the data from the COVID19 API is
+mostly numerical. Therefore, I had to create categorical variables to
+complete the exploratory data analysis. Creating categorical variables
+was surprisingly difficult for me because simply cutting the data and
+making it as categorical variables didn’t give me much information. I
+ended up creating risk categories based on the confirmed cases and death
+rates.
 
 However, the criteria I used are subjective, and I did not incorporate
 the population numbers for each region when creating the criteria. For
