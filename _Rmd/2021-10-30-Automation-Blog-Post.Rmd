@@ -1,8 +1,6 @@
 ---
-
 author: "Min-Jung Jung"
 date: "10/29/2021"
-
 ---
 
 ```{r setup, include=FALSE}
