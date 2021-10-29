@@ -2,7 +2,7 @@ Min-Jung Jung
 10/29/2021
 
 The [project
-2](https://mjung5.github.io/online-news-prediction/)([github
+2](https://mjung5.github.io/online-news-prediction/)[(github
 repo)](https://github.com/mjung5/online-news-prediction) was a group
 project working with a partner to create models to predict the number of
 shares of articles published in Mashable in a period of two years and to
