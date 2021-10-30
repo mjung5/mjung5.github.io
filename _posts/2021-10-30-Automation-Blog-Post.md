@@ -47,6 +47,6 @@ data analysis. Also, working with partner using github was surprisingly
 pleasant. We communicated more to avoid merge conflict and saved more
 time not dealing with emailing back and forth with revised files.
 
-Here are links to [github
+Here are the links to [github
 pages](https://mjung5.github.io/online-news-prediction/) and [github
-repo](https://github.com/mjung5/online-news-prediction)
+repo](https://github.com/mjung5/online-news-prediction).
