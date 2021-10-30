@@ -16,7 +16,7 @@ random forest models and a boosted tree model), and then we compared the
 RMSE scores of each model fit and found the best model with the lowest
 RMSE score.
 
-what would you do differently?
+What would you do differently?
 
 Deciding on the variables for the EDA was very challenging because many
 variables were unknown. Therefore, David and I decided on starting the
@@ -28,7 +28,7 @@ and added those variables into our EDA. In the end, we had to change the
 codes so many times. In the future, I would pick a set of variables and
 stick with the variables for the EDA to save time.
 
-what was the most difficult part for you?
+What was the most difficult part for you?
 
 I fit the random forest model and struggled so much running the code
 chunk because of the running time. It took me almost 2-3 hours to
@@ -38,7 +38,7 @@ discussion board, the office hours, and the slack channel. Eventually, I
 was able to use chunk option catch=TRUE, and was able to reduce time
 after rendering the first time.
 
-what are your big take-aways from this project?
+What are your big take-aways from this project?
 
 I am so glad I was able to practice how to set up automation and produce
 automated markdown reports. Thankfully, David helped me a lot on
